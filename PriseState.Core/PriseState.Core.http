@@ -1,0 +1,6 @@
+@PriseState.Core_HostAddress = http://localhost:5121
+
+GET {{PriseState.Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
